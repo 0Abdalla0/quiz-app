@@ -1,0 +1,17 @@
+
+Todo:
+  ✔ json object for questions @done(25-09-12 12:32)
+  ✔ make html @done(25-09-13 16:25)
+  ✔ add dumy data to test @done(25-09-13 16:25)
+  ✔ CSS @done(25-09-13 16:25)
+  ☐ fetch Number of Questions
+  ✔ Show question count & category @done(25-09-13 16:25)
+  ✔ show the number of bullets depends on question count @done(25-09-13 17:55)
+  ☐ set right and wrong cnts
+  ☐ create countdown timer 
+  ☐ Fetch questions from json object
+  ☐ show first intially
+  ☐ check answer and show next question
+  ☐ if timer ends make answer no, show next
+  ☐ add class on bullet after answering the question
+  ☐ on finishing questons show results

@@ -1,0 +1,442 @@
+[
+  {
+    "title": "What does HTML stand for?",
+    "answer_1": "Hyper Text Markup Language",
+    "answer_2": "Hyperlinks and Text Markup Language",
+    "answer_3": "Home Tool Markup Language",
+    "answer_4": "Hyper Tool Multi Language",
+    "right_answer": "Hyper Text Markup Language"
+  },
+  {
+    "title": "Which CSS property is used to change the text color of an element?",
+    "answer_1": "fgcolor",
+    "answer_2": "text-color",
+    "answer_3": "color",
+    "answer_4": "font-color",
+    "right_answer": "color"
+  },
+  {
+    "title": "Which keyword is used to declare a variable in JavaScript that cannot be reassigned?",
+    "answer_1": "var",
+    "answer_2": "let",
+    "answer_3": "const",
+    "answer_4": "static",
+    "right_answer": "const"
+  },
+  {
+    "title": "Which HTML element is used to specify a footer for a document or section?",
+    "answer_1": "<bottom>",
+    "answer_2": "<footer>",
+    "answer_3": "<section>",
+    "answer_4": "<end>",
+    "right_answer": "<footer>"
+  },
+  {
+    "title": "What is the correct CSS syntax for making all the <p> elements bold?",
+    "answer_1": "p {text-size:bold;}",
+    "answer_2": "<p style='font-size:bold;'>",
+    "answer_3": "p {font-weight:bold;}",
+    "answer_4": "p {style:bold;}",
+    "right_answer": "p {font-weight:bold;}"
+  },
+  {
+    "title": "How do you write 'Hello World' in an alert box?",
+    "answer_1": "msg('Hello World');",
+    "answer_2": "alertBox('Hello World');",
+    "answer_3": "alert('Hello World');",
+    "answer_4": "msgBox('Hello World');",
+    "right_answer": "alert('Hello World');"
+  },
+  {
+    "title": "Which property is used to change the background color?",
+    "answer_1": "color",
+    "answer_2": "bgcolor",
+    "answer_3": "background-color",
+    "answer_4": "background",
+    "right_answer": "background-color"
+  },
+  {
+    "title": "Which HTML tag is used to define an internal style sheet?",
+    "answer_1": "<css>",
+    "answer_2": "<script>",
+    "answer_3": "<style>",
+    "answer_4": "<link>",
+    "right_answer": "<style>"
+  },
+  {
+    "title": "What is the correct way to write a JavaScript array?",
+    "answer_1": "var colors = (1:'red', 2:'green', 3:'blue')",
+    "answer_2": "var colors = ['red', 'green', 'blue']",
+    "answer_3": "var colors = 'red', 'green', 'blue'",
+    "answer_4": "var colors = 1 = ('red'), 2 = ('green'), 3 = ('blue')",
+    "right_answer": "var colors = ['red', 'green', 'blue']"
+  },
+  {
+    "title": "What does CSS stand for?",
+    "answer_1": "Creative Style Sheets",
+    "answer_2": "Computer Style Sheets",
+    "answer_3": "Cascading Style Sheets",
+    "answer_4": "Colorful Style Sheets",
+    "right_answer": "Cascading Style Sheets"
+  },
+  {
+    "title": "Which HTML tag is used to define an unordered list?",
+    "answer_1": "<ol>",
+    "answer_2": "<ul>",
+    "answer_3": "<li>",
+    "answer_4": "<list>",
+    "right_answer": "<ul>"
+  },
+  {
+    "title": "How do you select an element with id 'demo' in CSS?",
+    "answer_1": ".demo",
+    "answer_2": "demo",
+    "answer_3": "*demo",
+    "answer_4": "#demo",
+    "right_answer": "#demo"
+  },
+  {
+    "title": "What is the difference between '==' and '===' in JavaScript?",
+    "answer_1": "They are the same",
+    "answer_2": "'==' compares values, '===' compares values and types",
+    "answer_3": "'===' compares values, '==' compares values and types",
+    "answer_4": "'==' is for strings, '===' is for numbers",
+    "right_answer": "'==' compares values, '===' compares values and types"
+  },
+  {
+    "title": "Which CSS property controls the space between elements?",
+    "answer_1": "padding",
+    "answer_2": "margin",
+    "answer_3": "border",
+    "answer_4": "spacing",
+    "right_answer": "margin"
+  },
+  {
+    "title": "Which HTML attribute specifies an alternate text for an image, if the image cannot be displayed?",
+    "answer_1": "src",
+    "answer_2": "title",
+    "answer_3": "alt",
+    "answer_4": "longdesc",
+    "right_answer": "alt"
+  },
+  {
+    "title": "Which CSS property is used to create space around an element's content, inside of any defined borders?",
+    "answer_1": "margin",
+    "answer_2": "spacing",
+    "answer_3": "outline",
+    "answer_4": "padding",
+    "right_answer": "padding"
+  },
+  {
+    "title": "Which event occurs when the user clicks on an HTML element?",
+    "answer_1": "onchange",
+    "answer_2": "onmouseclick",
+    "answer_3": "onmouseover",
+    "answer_4": "onclick",
+    "right_answer": "onclick"
+  },
+  {
+    "title": "Which HTML element is used to define a table row?",
+    "answer_1": "<td>",
+    "answer_2": "<table>",
+    "answer_3": "<tr>",
+    "answer_4": "<th>",
+    "right_answer": "<tr>"
+  },
+  {
+    "title": "What is the default value of the 'position' property in CSS?",
+    "answer_1": "relative",
+    "answer_2": "fixed",
+    "answer_3": "absolute",
+    "answer_4": "static",
+    "right_answer": "static"
+  },
+  {
+    "title": "How do you find the number with the highest value of x and y in JavaScript?",
+    "answer_1": "Math.ceil(x, y)",
+    "answer_2": "Math.max(x, y)",
+    "answer_3": "top(x, y)",
+    "answer_4": "Math.highest(x, y)",
+    "right_answer": "Math.max(x, y)"
+  },
+  {
+    "title": "Which HTML element is a container for metadata and is placed between the <html> and <body> tags?",
+    "answer_1": "<meta>",
+    "answer_2": "<head>",
+    "answer_3": "<title>",
+    "answer_4": "<header>",
+    "right_answer": "<head>"
+  },
+  {
+    "title": "How do you select elements with class name 'test' in CSS?",
+    "answer_1": "#test",
+    "answer_2": "test",
+    "answer_3": ".test",
+    "answer_4": "*test",
+    "right_answer": ".test"
+  },
+  {
+    "title": "What is the purpose of the 'z-index' property in CSS?",
+    "answer_1": "It sets the zoom level of an element",
+    "answer_2": "It specifies the stack order of an element",
+    "answer_3": "It controls the element's horizontal alignment",
+    "answer_4": "It defines the element's size",
+    "right_answer": "It specifies the stack order of an element"
+  },
+  {
+    "title": "Which HTML tag is used to create a hyperlink?",
+    "answer_1": "<link>",
+    "answer_2": "<href>",
+    "answer_3": "<a>",
+    "answer_4": "<hyperlink>",
+    "right_answer": "<a>"
+  },
+  {
+    "title": "How can you add a single-line comment in a JavaScript file?",
+    "answer_1": "<!--This is a comment-->",
+    "answer_2": "'This is a comment",
+    "answer_3": "/* This is a comment */",
+    "answer_4": "//This is a comment",
+    "right_answer": "//This is a comment"
+  },
+  {
+    "title": "Which property is used to change the font of an element?",
+    "answer_1": "font-style",
+    "answer_2": "font-weight",
+    "answer_3": "font-family",
+    "answer_4": "font-variant",
+    "right_answer": "font-family"
+  },
+  {
+    "title": "What does the 'this' keyword refer to in JavaScript?",
+    "answer_1": "The script it is in",
+    "answer_2": "The previous element",
+    "answer_3": "The global window object",
+    "answer_4": "The object it belongs to",
+    "right_answer": "The object it belongs to"
+  },
+  {
+    "title": "Which HTML element is used to define an ordered list?",
+    "answer_1": "<ul>",
+    "answer_2": "<ol>",
+    "answer_3": "<list>",
+    "answer_4": "<dir>",
+    "right_answer": "<ol>"
+  },
+  {
+    "title": "Which JavaScript method is used to remove the last element from an array and returns that element?",
+    "answer_1": "push()",
+    "answer_2": "last()",
+    "answer_3": "pop()",
+    "answer_4": "shift()",
+    "right_answer": "pop()"
+  },
+  {
+    "title": "In HTML, which attribute is used to specify that an input field must be filled out?",
+    "answer_1": "required",
+    "answer_2": "placeholder",
+    "answer_3": "validate",
+    "answer_4": "mandatory",
+    "right_answer": "required"
+  },
+  {
+    "title": "What will 'typeof NaN' return?",
+    "answer_1": "'nan'",
+    "answer_2": "'undefined'",
+    "answer_3": "'object'",
+    "answer_4": "'number'",
+    "right_answer": "'number'"
+  },
+  {
+    "title": "Which HTML5 element is used to draw graphics on the fly via scripting?",
+    "answer_1": "<draw>",
+    "answer_2": "<paint>",
+    "answer_3": "<canvas>",
+    "answer_4": "<graphic>",
+    "right_answer": "<canvas>"
+  },
+  {
+    "title": "What does 'display: none;' do in CSS?",
+    "answer_1": "Makes the element transparent",
+    "answer_2": "Hides the element but maintains its space in the layout",
+    "answer_3": "Hides the element and removes it from the document flow",
+    "answer_4": "Deletes the element from the DOM",
+    "right_answer": "Hides the element and removes it from the document flow"
+  },
+  {
+    "title": "Which built-in method returns the length of a string?",
+    "answer_1": "size()",
+    "answer_2": "length",
+    "answer_3": "count()",
+    "answer_4": "index",
+    "right_answer": "length"
+  },
+  {
+    "title": "Which HTML element is used to specify a header for a document or section?",
+    "answer_1": "<head>",
+    "answer_2": "<top>",
+    "answer_3": "<header>",
+    "answer_4": "<section>",
+    "right_answer": "<header>"
+  },
+  {
+    "title": "What is a CSS pseudo-class?",
+    "answer_1": "A CSS class that does not work",
+    "answer_2": "A class for JavaScript to use",
+    "answer_3": "It is used to define a special state of an element",
+    "answer_4": "A class that is not defined in the stylesheet",
+    "right_answer": "It is used to define a special state of an element"
+  },
+  {
+    "title": "Which operator is used to assign a value to a variable?",
+    "answer_1": "*",
+    "answer_2": "x",
+    "answer_3": "-",
+    "answer_4": "=",
+    "right_answer": "="
+  },
+  {
+    "title": "What is the purpose of the 'defer' attribute in a <script> tag?",
+    "answer_1": "The script is executed before the document is parsed",
+    "answer_2": "The script is not executed at all",
+    "answer_3": "The script is executed after the document has been parsed",
+    "answer_4": "The script is executed asynchronously",
+    "right_answer": "The script is executed after the document has been parsed"
+  },
+  {
+    "title": "How do you make each word in a text start with a capital letter using CSS?",
+    "answer_1": "text-transform: uppercase;",
+    "answer_2": "text-transform: capitalize;",
+    "answer_3": "font-style: capitalize;",
+    "answer_4": "text-decoration: capitalize;",
+    "right_answer": "text-transform: capitalize;"
+  },
+  {
+    "title": "Which JavaScript method converts a string to an integer?",
+    "answer_1": "toInteger()",
+    "answer_2": "parseInt()",
+    "answer_3": "Number()",
+    "answer_4": "toInt()",
+    "right_answer": "parseInt()"
+  },
+  {
+    "title": "What is the purpose of 'box-sizing: border-box;'?",
+    "answer_1": "It adds a border around the box",
+    "answer_2": "It makes the box a perfect square",
+    "answer_3": "It includes padding and border in the element's total width and height",
+    "answer_4": "It removes the box's padding and border",
+    "right_answer": "It includes padding and border in the element's total width and height"
+  },
+  {
+    "title": "What is a JavaScript Promise?",
+    "answer_1": "A guarantee that a function will not have errors",
+    "answer_2": "An object representing the eventual completion or failure of an asynchronous operation",
+    "answer_3": "A function that is executed synchronously",
+    "answer_4": "A variable that can never be changed",
+    "right_answer": "An object representing the eventual completion or failure of an asynchronous operation"
+  },
+  {
+    "title": "Which HTML attribute is used to define inline styles?",
+    "answer_1": "class",
+    "answer_2": "styles",
+    "answer_3": "font",
+    "answer_4": "style",
+    "right_answer": "style"
+  },
+  {
+    "title": "How do you create a flexbox container?",
+    "answer_1": "display: block;",
+    "answer_2": "display: flex;",
+    "answer_3": "display: grid;",
+    "answer_4": "display: flexbox;",
+    "right_answer": "display: flex;"
+  },
+  {
+    "title": "Which method converts a JSON string to a JavaScript object?",
+    "answer_1": "JSON.stringify()",
+    "answer_2": "JSON.toObject()",
+    "answer_3": "JSON.parse()",
+    "answer_4": "JSON.convert()",
+    "right_answer": "JSON.parse()"
+  },
+  {
+    "title": "Which method converts a JavaScript object to a JSON string?",
+    "answer_1": "JSON.stringify()",
+    "answer_2": "JSON.toString()",
+    "answer_3": "JSON.parse()",
+    "answer_4": "JSON.objectify()",
+    "right_answer": "JSON.stringify()"
+  },
+  {
+    "title": "What is the correct way to get an element by its ID in JavaScript?",
+    "answer_1": "document.querySelector('#myId')",
+    "answer_2": "document.getElement('myId')",
+    "answer_3": "document.getElementById('myId')",
+    "answer_4": "Both A and C are correct",
+    "right_answer": "Both A and C are correct"
+  },
+  {
+    "title": "Which CSS property is used to align flex items along the main axis?",
+    "answer_1": "align-items",
+    "answer_2": "justify-content",
+    "answer_3": "flex-direction",
+    "answer_4": "align-content",
+    "right_answer": "justify-content"
+  },
+  {
+    "title": "Which HTML element defines navigation links?",
+    "answer_1": "<navigate>",
+    "answer_2": "<nav>",
+    "answer_3": "<navigation>",
+    "answer_4": "<links>",
+    "right_answer": "<nav>"
+  },
+  {
+    "title": "How do you round the number 7.25 to the nearest integer?",
+    "answer_1": "Math.rnd(7.25)",
+    "answer_2": "round(7.25)",
+    "answer_3": "Math.round(7.25)",
+    "answer_4": "Math.floor(7.25)",
+    "right_answer": "Math.round(7.25)"
+  },
+  {
+    "title": "What is the main difference between `Array.prototype.map()` and `Array.prototype.forEach()`?",
+    "answer_1": "`forEach()` returns a new array, `map()` modifies the original array.",
+    "answer_2": "`map()` returns a new array with the results of calling a function for every array element, while `forEach()` does not return a new array.",
+    "answer_3": "There is no difference, they are interchangeable.",
+    "answer_4": "`map()` can only be used on arrays of numbers, `forEach()` can be used on any array.",
+    "right_answer": "`map()` returns a new array with the results of calling a function for every array element, while `forEach()` does not return a new array."
+  },
+  {
+    "title": "In CSS, which of the following selectors has the highest specificity?",
+    "answer_1": "A class selector (e.g., `.my-class`)",
+    "answer_2": "An ID selector (e.g., `#my-id`)",
+    "answer_3": "An element selector (e.g., `p`)",
+    "answer_4": "A universal selector (e.g., `*`)",
+    "right_answer": "An ID selector (e.g., `#my-id`)"
+  },
+  {
+    "title": "What is the difference between the `async` and `defer` attributes on a `<script>` tag?",
+    "answer_1": "`async` scripts are executed in order, while `defer` scripts are not.",
+    "answer_2": "`defer` guarantees script execution order, `async` does not. Both download without blocking HTML parsing.",
+    "answer_3": "`async` blocks HTML parsing, `defer` does not.",
+    "answer_4": "They are functionally identical.",
+    "right_answer": "`defer` guarantees script execution order, `async` does not. Both download without blocking HTML parsing."
+  },
+  {
+    "title": "What is a closure in JavaScript?",
+    "answer_1": "A way to close a web browser window using code.",
+    "answer_2": "A function having access to the global scope.",
+    "answer_3": "A combination of a function and the lexical environment within which that function was declared.",
+    "answer_4": "A built-in method to stop script execution.",
+    "right_answer": "A combination of a function and the lexical environment within which that function was declared."
+  },
+  {
+    "title": "Which of the following is NOT a semantic HTML5 element?",
+    "answer_1": "<article>",
+    "answer_2": "<section>",
+    "answer_3": "<div>",
+    "answer_4": "<aside>",
+    "right_answer": "<div>"
+  }
+]

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Quiz App</title>
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <div class="quiz-app">
+      <div class="quiz-info">
+        <div class="quiz-header">
+          <div class="category">Category: <span>FrontEnd</span></div>
+          <div class="count">Questions Left: <span></span></div>
+        </div>
+        <hr />
+        <div class="quiz-area">
+          <h2 class="question"></h2>
+          <hr />
+          <div class="answers">
+            <div class="answer">
+              <input type="radio" id="answer-1" name="answer" />
+              <label for="answer-1"></label>
+            </div>
+            <div class="answer">
+              <input type="radio" id="answer-2" name="answer" />
+              <label for="answer-2"></label>
+            </div>
+            <div class="answer">
+              <input type="radio" id="answer-3" name="answer" />
+              <label for="answer-3"></label>
+            </div>
+            <div class="answer">
+              <input type="radio" id="answer-4" name="answer" />
+              <label for="answer-4"></label>
+            </div>
+          </div>
+        </div>
+        <hr />
+        <div class="right">
+          <button class="sumbit-btn">Submit Answer</button>
+          <div class="bullets"></div>
+          <div class="count-down"></div>
+          <div class="result"></div>
+        </div>
+      </div>
+    </div>
+  </body>
+  <script src="js/script.js"></script>
+</html>
